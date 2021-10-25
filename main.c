@@ -31,7 +31,6 @@ void fullscreen();
 void displyMenu();
 
 
-
 int main()
 {
 
